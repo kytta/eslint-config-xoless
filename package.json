@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-xoless",
+  "version": "0.44.0-alpha.0",
+  "description": "XO without XO",
+  "license": "BSD-3-Clause",
+  "repository": "NickKaramoff/eslint-config-xoless",
+  "author": "Nikita Karamov <nick@karamoff.dev>",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "index.js",
+    "browser.js"
+  ],
+  "keywords": [
+    "eslintconfig",
+    "xo",
+    "lint",
+    "eslint",
+    "code style"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.20.0"
+  },
+  "dependencies": {
+    "eslint-config-xo": "^0.38.0"
+  }
+}
