@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xoless",
-  "version": "0.44.0-alpha.0",
+  "version": "0.44.0-alpha.1",
   "description": "XO without XO",
   "license": "BSD-3-Clause",
   "repository": "NickKaramoff/eslint-config-xoless",
