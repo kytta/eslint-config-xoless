@@ -8,6 +8,9 @@
   "engines": {
     "node": ">=10"
   },
+  "scripts": {
+    "test": "uvu test"
+  },
   "files": [
     "index.js",
     "browser.js"
