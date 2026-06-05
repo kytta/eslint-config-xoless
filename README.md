@@ -1,11 +1,14 @@
 # eslint-config-xoless
 
-> XO without XO
+> [!WARNING]
+> **This project is deprecated.**
+> [eslint-config-xo](https://github.com/xojs/eslint-config-xo) now includes
+> other plugins as well. Use it instead.
 
-This is a shareable config for ESLint based on [XO](https://github.com/xojs/xo).
-Unlike the official
+This was a shareable config for ESLint based on [XO](https://github.com/xojs/xo).
+~~Unlike the official
 [eslint-config-xo](https://github.com/xojs/eslint-config-xo),
-this config also supplies configuration for various ESLint plugins.
+this config also supplies configuration for various ESLint plugins.~~
 
 # Licence
 
